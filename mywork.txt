@@ -1,0 +1,21 @@
+************************************************** 20-10-2021 ***********************************************
+-update listCageteria in files( itemEntry.vue, GroupsList.vue, AddItem.vue, StudentBalance.vue, UserEntry.vue)
+-update api route in beta : Route::POST('cafeteria/listCafetria', 'API\Cafeteria\storesController@listStores');
+-update api route in pos.vue (cafeteria/filter/)
+-update api route in beta : Route::POST('cafeteria/filter/{id}', 'API\Cafeteria\storesController@cat_filter');
+-update api route in pos.vue (cafeteria/dashboard/)
+-update api route in beta : Route::POST('cafeteria/dashboard/{id}', 'API\Cafeteria\storesController@store_details');
+-update tabs in pos.vue
+-update route 
+-update mobile and phone in acfeteria entry
+-student balance valaidate amount
+-update permissions in controller 
+
+************************************************** 21-10-2021 ***********************************************
+
+-update (GroupList.vue, ItemsList.vue, OrdersList.vue, RolesList.vue, student1.vue, UsersList.vue, ar.js, en.js)
+
+
+************************************************** 26-10-2021 ***********************************************
+
+-update filter in ( GroupList.vue, ItemList.vue )
